@@ -228,26 +228,8 @@
       "title": "Gregg's Event",
       "description": "We'll do stuff",
       "location": "Your House",
-      "date": "",
+      "date": "2019-03-09T01:20:00.000Z",
       "time": "5:00",
-      "attendees": []
-    },
-    {
-      "id": 3942920,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "test",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
       "attendees": []
     },
     {
@@ -269,21 +251,21 @@
       "attendees": []
     },
     {
-      "id": 3591073,
+      "id": 8075904,
       "user": {
         "id": "abc123",
         "name": "Adam"
       },
-      "category": "nature",
+      "category": "food",
       "organizer": {
         "id": "abc123",
         "name": "Adam"
       },
-      "title": "water the plants",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
+      "title": "Japanese ramen",
+      "description": "$10/cup",
+      "location": "Queens",
+      "date": "2019-03-14T05:55:00.000Z",
+      "time": "10:00",
       "attendees": []
     }
   ]
