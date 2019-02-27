@@ -249,6 +249,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 2287871,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Clean the house",
+      "description": "",
+      "location": "",
+      "date": "2019-03-09T01:20:00.000Z",
+      "time": "4:00",
+      "attendees": []
     }
   ]
 }
