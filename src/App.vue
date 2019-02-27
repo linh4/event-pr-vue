@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Navbar />
+    <Example />
     <NotificationContainer />
     <router-view :key="$route.fullPath"/>
   </div>
@@ -8,11 +9,13 @@
 
 <script>
   import Navbar from '@/components/Navbar.vue';
+  import Example from '@/views/Example.vue';
   import NotificationContainer from '@/components/NotificationContainer.vue'
 
   export default {
     components: {
       Navbar,
+      Example,
       NotificationContainer
     }
   }
@@ -241,5 +244,14 @@
   }
   select::ms-expand {
     opacity: 0;
+  }
+  .field {
+    margin-bottom: 24px;
+  }
+  .error {
+    border: 1px solid red;
+  }
+  .errorMessage {
+    color: red;
   }
 </style>

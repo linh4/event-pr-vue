@@ -267,6 +267,24 @@
       "date": "2019-03-09T01:20:00.000Z",
       "time": "4:00",
       "attendees": []
+    },
+    {
+      "id": 3591073,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "water the plants",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
