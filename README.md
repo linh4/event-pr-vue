@@ -1,4 +1,4 @@
-# real-world
+# Event Page With Vue
 
 ## Project setup
 ```
